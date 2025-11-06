@@ -124,7 +124,7 @@ The HD44780 LCD controller supports two parallel communication modes:
 
 - [API Reference](./API_Reference.md)  
   ---  
-  This section provides detailed descriptions of the functions in the `alcd.h` and `alcd.c` files for handling LCD operations on the STM32F103C8 microcontroller. These APIs allow you to initialize the LCD, control cursor and display settings, write characters and strings, define custom characters, and manage the backlight. The library is designed for 16x2 character displays and supports flexible pin mapping for easy hardware integration.
+  The aLCD Library provides a comprehensive driver for HD44780-compatible 16x2 LCDs on STM32 microcontrollers. It supports both 4-bit and 8-bit communication modes with flexible pin mapping via STM32CubeMX. The API includes functions for initialization, controlling the display, cursor, and backlight, and writing characters and strings to specific positions. Additionally, it allows for the creation and use of up to 8 custom characters.
 
 - [STM32 Microcontroller Training](https://github.com/aKaReZa75/STM32)  
   ---  
