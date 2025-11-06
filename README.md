@@ -116,7 +116,7 @@ The HD44780 LCD controller supports two parallel communication modes:
 
 
 # 🔗 Resources
-  Here you'll find a collection of useful links and videos related to the topic of AVR microcontrollers.  
+  Here you'll find a collection of useful links and videos related to the topic of STM32 microcontrollers.  
 
 > [!TIP]
 > The resources are detailed in the sections below.  
@@ -124,7 +124,7 @@ The HD44780 LCD controller supports two parallel communication modes:
 
 - [API Reference](./API_Reference.md)  
   ---  
-  This section provides detailed descriptions of the functions in the `alcd.h` and `alcd.c` files for handling LCD operations on the ATmega328 microcontroller. These APIs allow you to initialize the LCD, control cursor and display settings, write characters and strings, define custom characters, and manage the backlight. The library is designed for 16x2 character displays and supports flexible pin mapping for easy hardware integration.
+  This section provides detailed descriptions of the functions in the `alcd.h` and `alcd.c` files for handling LCD operations on the STM32F103C8 microcontroller. These APIs allow you to initialize the LCD, control cursor and display settings, write characters and strings, define custom characters, and manage the backlight. The library is designed for 16x2 character displays and supports flexible pin mapping for easy hardware integration.
 
 - [STM32 Microcontroller Training](https://github.com/aKaReZa75/STM32)  
   ---  
