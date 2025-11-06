@@ -126,6 +126,19 @@ DB6 -> PB1
 DB7 -> PA9
 ```
 
+### Backlight Configuration (Optional)
+
+The backlight feature is optional for both modes. To enable it:
+
+- **Optional Backlight:**
+  - BL pin → `__alcd_BL`
+  
+#### Default Pin Assignments - 8-Bit Mode
+```c
+/* Optional Backlight */
+BL  -> PB12
+```
+
 ### 8-Bit Mode Configuration:
 Set these User Labels in CubeMX:
 - **Control Pins:**
@@ -159,19 +172,6 @@ DB4 -> PA5
 DB5 -> PA6
 DB6 -> PA7
 DB7 -> PA8
-```
-
-### Backlight Configuration (Optional)
-
-The backlight feature is optional for both modes. To enable it:
-
-- **Optional Backlight:**
-  - BL pin → `__alcd_BL`
-  
-#### Default Pin Assignments - 8-Bit Mode
-```c
-/* Optional Backlight */
-BL  -> PA0
 ```
 
 
