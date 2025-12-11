@@ -146,7 +146,7 @@ STM32, Alphanumeric LCD
 
 <table style="border-collapse: collapse;">
   <tr style="background-color: #f9f9f9;">
-    <td valign="top" style="padding: 0 10px;">
+    <td valign="top" style="middle: 0 10px;">
       <h3 style="margin: 0;">
         <a href="https://youtu.be/XsrOL4_7Ywc">aKaReZa 130 – STM32, HAL, aLCD</a>
       </h3>
