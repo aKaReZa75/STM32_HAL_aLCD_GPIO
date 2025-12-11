@@ -154,7 +154,7 @@ STM32, Alphanumeric LCD
         Bridge AVR and STM32 environments by adapting the <strong>aLCD library</strong> for STM32 using the HAL framework. This tutorial guides you through <strong>creating a new STM32 project</strong>, <strong>configuring GPIO pins</strong>, and <strong>rewriting the shared header file aKaReZa.h</strong>. You’ll also learn to <strong>refactor LCD functions for HAL</strong>, understand the <strong>core LCD API</strong>, and apply <strong>performance optimization techniques</strong>. Finally, the episode introduces the <strong>STM32-compatible alcd repository</strong>—a practical resource for reusing and enhancing LCD code across platforms.
       </p>
     </td>
-    <td width="360" valign="top">
+    <td width="360" valign="middle">
       <a href="https://youtu.be/XsrOL4_7Ywc">
         <img src="https://img.youtube.com/vi/XsrOL4_7Ywc/maxresdefault.jpg"
              width="360"
