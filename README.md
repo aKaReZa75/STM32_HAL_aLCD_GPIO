@@ -132,8 +132,38 @@ The HD44780 LCD controller supports two parallel communication modes:
 
 ## Project Videos
 
-> [!CAUTION]
-> This tutorial has not yet **started!**
+```plaintext
+STM32, Alphanumeric LCD
+└─ [aKaReZa 130 - HAL, aLCD]
+      ├─ Project — Creating a new STM32 project.
+      ├─ GPIO — Pin configuration for LCD connection.
+      ├─ Header — Rewriting aKaReZa.h for STM32.
+      ├─ Refactor — Adapting LCD functions to HAL.
+      ├─ API — Core LCD functions overview.
+      ├─ Performance — Techniques to boost display speed.
+      └─ Repository — STM32-compatible alcd library usage.
+```
+
+<table style="border-collapse: collapse;">
+  <tr style="background-color: #f9f9f9;">
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/XsrOL4_7Ywc">aKaReZa 130 – STM32, HAL, aLCD</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Bridge AVR and STM32 environments by adapting the <strong>aLCD library</strong> for STM32 using the HAL framework. This tutorial guides you through <strong>creating a new STM32 project</strong>, <strong>configuring GPIO pins</strong>, and <strong>rewriting the shared header file aKaReZa.h</strong>. You’ll also learn to <strong>refactor LCD functions for HAL</strong>, understand the <strong>core LCD API</strong>, and apply <strong>performance optimization techniques</strong>. Finally, the episode introduces the <strong>STM32-compatible alcd repository</strong>—a practical resource for reusing and enhancing LCD code across platforms.
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/XsrOL4_7Ywc">
+        <img src="https://img.youtube.com/vi/XsrOL4_7Ywc/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 130 – STM32, HAL, aLCD Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 # 💻 How to Use Git and GitHub
